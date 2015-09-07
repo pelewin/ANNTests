@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ANNCommon/ANNCommon.iml" filepath="$PROJECT_DIR$/ANNCommon/ANNCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ANNTests.iml" filepath="$PROJECT_DIR$/ANNTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnViewer/AnnViewer.iml" filepath="$PROJECT_DIR$/AnnViewer/AnnViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnGames/Game1/Game1.iml" filepath="$PROJECT_DIR$/AnnGames/Game1/Game1.iml" />
+    </modules>
+  </component>
+</project>
